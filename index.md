@@ -1,12 +1,11 @@
 # Identity and Access Management Devroom @ FOSDEM 2026
 
-[FOSDEM 2026](https://fosdem.org/2026/) will once again have an
-[Identity and Access Management devroom](https://fosdem.org/2026/schedule/track/identity-and-access-management/),
-following its successful runs in 2018, 2024, and 2025.
+[FOSDEM 2027](https://fosdem.org/2027/) will once again have an
+[Identity and Access Management devroom](https://fosdem.org/2027/schedule/track/identity-and-access-management/),
+following its successful runs in 2018, and 2024-2026.
 
-The IAM devroom is scheduled to be held on **Sunday, February 1st, 2026**
-in Brussels, Belgium at [ULB](https://www.ulb.be/).
-Exact room allocation will be known in December 2025.
+The IAM devroom is scheduled to be held on either **Saturday** or **Sunday, January 30-31st, 2027**
+in Brussels, Belgium at [ULB](https://www.ulb.be/). Exact room allocation will be known in December 2026.
 
 ## Our topics this year
 
@@ -18,9 +17,10 @@ We don’t exclude any relevant submission; for ideas and suggestions,
 please check the previous editions of the IAM devroom
 ([2018](https://archive.fosdem.org/2018/schedule/track/identity_and_access_management/),
 [2024](https://archive.fosdem.org/2024/schedule/track/identity-and-access-management/),
-[2025](https://archive.fosdem.org/2025/schedule/track/iam/)).
+[2025](https://archive.fosdem.org/2025/schedule/track/iam/),
+[2026](https://archive.fosdem.org/2026/schedule/track/identity-and-access-management/)).
 
-Suggested topics, based on our 2026 proposal, include:
+Suggested topics, based on our 2027 proposal, include:
 
 **The future of authentication:**
 * The path to ubiquitous Passwordless: Passkeys, FIDO2, OAuth2, and PIV in practice
@@ -30,7 +30,6 @@ for operating system access.
 
 **Core infrastructure & security:**
 * Preparing for Y2Q: Implementing quantum-resistant cryptography (QRC) in authentication protocols.
-* DNS and Identity: Securing enterprise and personal domains for identity services.
 * Identity in the Software Supply Chain (e.g., how identity concepts apply to services like Sigstore).
 
 **User experience & integration:**
@@ -47,14 +46,14 @@ and system administration toolchains.
 ## Submissions
 
 Submissions require a small abstract and a short speaker description.
-They must be submitted [via the Pretalx system](https://pretalx.fosdem.org/fosdem-2026/cfp)
-no later than **30th of November 2025**.
+They must be submitted [via the Pretalx system](https://pretalx.fosdem.org/fosdem-2027/cfp)
+no later than **30th of November 2026**.
 Suggested duration for a timeslot to apply for is **25 minutes**
 (20 min presentation + 5 mins questions).
-The schedule shall be finalized by **15 December 2025**.
+The schedule shall be finalized by **15 December 2026**.
 
 Note that FOSDEM continues to use Pretalx.
-If you created an account to submit a proposal for FOSDEM 2025,
+If you created an account to submit a proposal for FOSDEM 2026,
 you should be able to reuse it.
 Otherwise, you will need to create a new account.
 
@@ -71,7 +70,8 @@ mailing list for announcements.
 
 * *You!* - any help with organizing is highly appreciated!
 * Alexander Bokovoy (ab@samba.org)
-* Iker Pedrosa (ipedrosa@redhat.com)
+* Alexander Schwartz (alexander.schwartz@ibm.com)
+* Francisco Trivino Garcia (ftrivino@redhat.com)
 
 ### Contact
 
