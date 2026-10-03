@@ -1,4 +1,4 @@
-# Identity and Access Management Devroom @ FOSDEM 2026
+# Identity and Access Management Devroom @ FOSDEM 2027
 
 [FOSDEM 2027](https://fosdem.org/2027/) will once again have an
 [Identity and Access Management devroom](https://fosdem.org/2027/schedule/track/identity-and-access-management/),
