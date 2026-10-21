@@ -63,7 +63,7 @@ Otherwise, you will need to create a new account.
 2.  Register a new account or log in with your existing account.
 3.  Create a new event with your title, abstract, and some information about you.
 4.  Be sure to set the event track to “**Identity and Access Management devroom**”.
-5.  Subscribe to the [iam-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/iam-devroom)
+5.  Subscribe to the [iam-devroom@lists.fosdem.org](https://lists.fosdem.org/postorius/lists/iam-devroom.lists.fosdem.org/)
 mailing list for announcements.
 
 ### Organizers
@@ -75,4 +75,4 @@ mailing list for announcements.
 
 ### Contact
 
-[iam-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/iam-devroom)
+[iam-devroom@lists.fosdem.org](https://lists.fosdem.org/postorius/lists/iam-devroom.lists.fosdem.org/)
