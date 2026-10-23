@@ -4,7 +4,7 @@
 [Identity and Access Management devroom](https://fosdem.org/2027/schedule/track/identity-and-access-management/),
 following its successful runs in 2018, and 2024-2026.
 
-The IAM devroom is scheduled to be held on either **Saturday** or **Sunday, January 30-31st, 2027**
+The IAM devroom is scheduled to be held on the afternoon of **Saturday, January 30st, 2027**
 in Brussels, Belgium at [ULB](https://www.ulb.be/). Exact room allocation will be known in December 2026.
 
 ## Our topics this year
@@ -72,6 +72,7 @@ mailing list for announcements.
 * Alexander Bokovoy (ab@samba.org)
 * Alexander Schwartz (alexander.schwartz@ibm.com)
 * Francisco Trivino Garcia (ftrivino@redhat.com)
+* Carla Martinez Poveda (carlmart@redhat.com)
 
 ### Contact
 
